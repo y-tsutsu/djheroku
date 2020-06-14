@@ -10,7 +10,9 @@ rope = "*"
 
 [packages]
 django = "*"
+django-heroku = "*"
 docutils = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
