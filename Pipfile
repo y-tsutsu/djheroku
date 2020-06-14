@@ -10,6 +10,7 @@ rope = "*"
 
 [packages]
 django = "*"
+docutils = "*"
 
 [requires]
 python_version = "3.8"
