@@ -19,3 +19,5 @@ python_version = "3.8"
 
 [scripts]
 start = "python manage.py runserver"
+static = "python manage.py collectstatic"
+test = "python manage.py test"
