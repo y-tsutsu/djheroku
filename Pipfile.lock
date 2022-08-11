@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ea1931d883250775d03c166798de4a0f4f4e8c22843b1334db9367cc377024ff"
+            "sha256": "2c1d318bd8a89c467d28c3c4bc4336df1d4b1cd691bcbe8885d5f523ad263990"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -26,18 +26,18 @@
         },
         "dj-database-url": {
             "hashes": [
-                "sha256:4aeaeb1f573c74835b0686a2b46b85990571159ffc21aa57ecd4d1e1cb334163",
-                "sha256:851785365761ebe4994a921b433062309eb882fedd318e1b0fcecc607ed02da9"
+                "sha256:ccf3e8718f75ddd147a1e212fca88eecdaa721759ee48e38b485481c77bca3dc",
+                "sha256:cd354a3b7a9136d78d64c17b2aec369e2ae5616fbca6bfbe435ef15bb372ce39"
             ],
-            "version": "==0.5.0"
+            "version": "==1.0.0"
         },
         "django": {
             "hashes": [
-                "sha256:677182ba8b5b285a4e072f3ac17ceee6aff1b5ce77fd173cc5b6a2d3dc022fcf",
-                "sha256:a8681e098fa60f7c33a4b628d6fcd3fe983a0939ff1301ecacac21d0b38bad56"
+                "sha256:115baf5049d5cf4163e43492cdc7139c306ed6d451e7d3571fe9612903903713",
+                "sha256:f71934b1a822f14a86c9ac9634053689279cd04ae69cb6ade4a59471b886582b"
             ],
             "index": "pypi",
-            "version": "==3.2.14"
+            "version": "==3.2.15"
         },
         "django-heroku": {
             "hashes": [
@@ -89,11 +89,11 @@
         },
         "setuptools": {
             "hashes": [
-                "sha256:16923d366ced322712c71ccb97164d07472abeecd13f3a6c283f6d5d26722793",
-                "sha256:db3b8e2f922b2a910a29804776c643ea609badb6a32c4bcc226fd4fd902cce65"
+                "sha256:63f463b90ff5e0a1422010100268fd688e15c44ae0798659013c8412963e15e4",
+                "sha256:9b5d2cb8df48f005825654e0cb17217418317e4d996c035f0bca7cbaeb8acf51"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==63.1.0"
+            "version": "==64.0.0"
         },
         "sqlparse": {
             "hashes": [
@@ -170,11 +170,11 @@
         },
         "pytoolconfig": {
             "hashes": [
-                "sha256:5ac82f78d731531f9f82e5cc7f5ebae9473b1404c0e75aa5ac0b8b41cd99b510",
-                "sha256:5f291567f0363a7314406be4f2381ece4e552a8608d2629544679e4d36d0df2b"
+                "sha256:2512a1f261a40e73cef2e58e786184261b60c802ae7ed01249342b1949ec3aa2",
+                "sha256:825d97b052e58b609c2684b04efeb543075588d33a4916a6dc2ae39676458c7d"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.2.1"
+            "version": "==1.2.2"
         },
         "rope": {
             "hashes": [
